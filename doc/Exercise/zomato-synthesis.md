@@ -1,10 +1,25 @@
-Zomato Interview Synthesis — Wk 1 Extended Exercise
-Student Name: Neelima Saini Batch: [Batch 1 / Batch 2] Date Submitted:[12/08/2026]  GitHub file URL: [Paste your GitHub file URL after committing]
+#Zomato Interview Synthesis — Wk 1 Extended Exercise
 
+Student Name: Neelima Saini 
+Batch: Aug-2026
+Date Submitted: 13-08-2026
+GitHub file URL: 
 
-Section 1 — Quote Extraction
+---------------------------------------------------------------
+
+How to use this template
+Fill in each of the 6 sections below. Follow the instructions in the assignment brief for what goes into each section. Delete these instruction blocks (marked with >) as you go.
+
+Total time estimate: 2.5 – 3 hours.
+
+---------------------------------------------------------------
+
+##Section 1 — Quote Extraction
+
 Extract 3-5 VERBATIM quotes from each interview. Verbatim = word-for-word, not summarized. For each quote, add one line explaining what it signals.
+
 Interview A — Rohan Verma (SDE, Bangalore, WFH)
+
 Quote: "Delivery times. Zomato has become... unreliable. "Between 7-9 PM in Bangalore, if I order Zomato, I'm gambling. 60-70 minute deliveries are the norm, not the exception "
 
 Signals: [Rohan is losing trust on zomato delivery as always late especially during peak hours delivery time , food is delivered cold ]
@@ -30,6 +45,7 @@ Quote: "If the delivery is going to take 60 minutes, tell me 60. Don't promise 3
 Signals: [Users prefer honesty about long delivery times over fake, fast estimates that lead to cold food.]
 
 Interview B — Meera Krishnan (Restaurant owner, Chennai)
+
 Quote: "Saturday-Sunday, we get 3x the walk-ins. My kitchen has one dosa griddle, one idli steamer, one prep station. Weekdays fine, weekends chaos"
 
 Signals: [Physical kitchen capacity limits , Severe strain during weekend spikes because of some operational imbalance in dine in and delivery capacity]
@@ -48,6 +64,7 @@ Signals: [Owner want a flexible control to limit order volume during pearl hours
 
 
 Interview C — Priya Nair (Marketing exec, Mumbai)
+
 Quote: "Rent 12k, groceries 3k, transport 2k, phone and OTT 1k, family send 2k, savings I aim for 5k. That leaves me 5k for everything else — including any food out or delivery. "
 
 Signals: [Tight monthly budget with strict allocation limits, leaving very little room for discretionary spending like food delivery. ]
