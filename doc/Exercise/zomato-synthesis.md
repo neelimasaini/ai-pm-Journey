@@ -1,8 +1,11 @@
 # Zomato Interview Synthesis — Wk 1 Extended Exercise
 
 Student Name: Neelima Saini 
+
 Batch: Aug-2026
+
 Date Submitted: 13-08-2026
+
 GitHub file URL: 
 
 ---------------------------------------------------------------
@@ -154,24 +157,39 @@ Anchor quote: "Between 7-9 PM in Bangalore, if I order Zomato, I'm gambling. 60-
 Why it matters: Severe delivery delays during peak hours creates mistrust within user delivery promises  and users are facing issues like cold food , bad quality
 
 ## Theme 2: [Subscription value erosion]
-Who mentioned it: [Rohan, Priya , Kartik , Vikram — 4/6 interviews]
+
+Who mentioned it: Rohan, Priya , Kartik , Vikram — 4/6 interviews
+
 Anchor quote: "In July, they added 'restrictions' ... Then the minimum order value went up from 199 to 249. Then they added a 'handling fee' that Gold didn't cover. Then peak-hour surcharges ... Layer after layer. " — [Kartik Reddy]
-Why it matters: [Quietly adding restrictions and unannounced fees Impacts the financial value offered on loyalty memberships, turning loyal subscribers into churned users]
-Theme 3:[Subscription Cancellation because of declining Monthly Savings ]
-Who mentioned it: [Rohan, Karthik, Priya —  3/6 interviews ]
+
+Why it matters: Quietly adding restrictions and unannounced fees Impacts the financial value offered on loyalty memberships, turning loyal subscribers into churned users
+
+## Theme 3:[Subscription Cancellation because of declining Monthly Savings ]
+
+Who mentioned it: Rohan, Karthik, Priya —  3/6 interviews 
+
 Anchor quote: "When Gold was 200 rupees for unlimited free delivery... my monthly savings dropped from about 500 rupees to 150. Membership was 200. Math didn't work anymore." — [Rohan Verma]
-Why it matters: [People regularly check if their paid memberships are actually saving them money. As soon as extra fees and rules make their monthly savings drop lower than what they paid for the membership, they quit using it.]
-Theme 4: [Hidden checkout fees and unexpected price jumps]
-Who mentioned it: [Priya, Karthik, Rohan — 3/6 interviews]
+
+Why it matters: People regularly check if their paid memberships are actually saving them money. As soon as extra fees and rules make their monthly savings drop lower than what they paid for the membership, they quit using it.
+
+## Theme 4: [Hidden checkout fees and unexpected price jumps]
+
+Who mentioned it: Priya, Karthik, Rohan — 3/6 interviews
+
 Anchor quote: " I'll be scrolling Zomato, find a nice-looking dal makhani, 200 rupees. Add to cart. Go to checkout. See: Total 257 rupees. Delivery fee 45. GST 12. Suddenly it's not 200. It's basically 260" — [Priya Nair]
-Why it matters: [Revealing extra delivery charges , surcharges, taxes , handling fees only at checkout page creates sudden shock for the user ]
-Suspicion : Theme 5 [Kitchen capacity overload and lack of owner flex-controls ] 
-Who mentioned it: [Meera, Vikram — 2/6 interviews] Vikram noting his favorite restaurants are marked "temporarily closed" every Sunday due to capacity 
+
+Why it matters: Revealing extra delivery charges , surcharges, taxes , handling fees only at checkout page creates sudden shock for the user 
+
+## Suspicion : Theme 5 [Kitchen capacity overload and lack of owner flex-controls ] 
+
+Who mentioned it: Meera, Vikram — 2/6 interviews , Vikram noting his favorite restaurants are marked "temporarily closed" every Sunday due to capacity 
+
 Anchor quote: "Sunday afternoon at 1 PM, I have 60 dine-in customers waiting. A delivery order comes in... If I take it, one of my walk-in customers waits 90 minutes. If I cancel, one delivery guy gets annoyed. It's arithmetic " — [Meera Krishan]
-Why it matters: [Because delivery apps lack flexible volume controls, restaurants are forced into a no-win choice between ignoring hungry walk-in customers or taking delivery penalties, directly causing widespread weekend cancellations and delivery delays.]
+
+Why it matters: Because delivery apps lack flexible volume controls, restaurants are forced into a no-win choice between ignoring hungry walk-in customers or taking delivery penalties, directly causing widespread weekend cancellations and delivery delays.
 
 
-Section 3 — Triangulation Map
+## Section 3 — Triangulation Map
 
 #
 Data Problem (from QuickBites)
