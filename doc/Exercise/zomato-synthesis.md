@@ -13,134 +13,147 @@ GitHub file URL:
 
 Quote: "Delivery times. Zomato has become... unreliable. "Between 7-9 PM in Bangalore, if I order Zomato, I'm gambling. 60-70 minute deliveries are the norm, not the exception "
 
-Signals: [Rohan is losing trust on zomato delivery as always late especially during peak hours delivery time , food is delivered cold ]
+Signals: Rohan is losing trust on zomato delivery as always late especially during peak hours delivery time , food is delivered cold
 
 Quote: "I've literally stopped opening Zomato before 9 PM. I checked Swiggy first. If Swiggy has what I want, done. Zomato is my backup now. ."
 
-Signals: [ First preference is swiggy for ordering , zomato has now considered a backup. Shift in user behaviour and zomato lost primary order channel status]
+Signals: First preference is swiggy for ordering , zomato has now considered a backup. Shift in user behaviour and zomato lost primary order channel status
 
 Quote: "Now they've added minimum order values, restricted restaurants, handling fees Gold doesn't cover"
 
-Signals: [Cancelled the Gold membership as it doesn't provide the value as earlier devaluation of subscription perks.]
+Signals: Cancelled the Gold membership as it doesn't provide the value as earlier devaluation of subscription perks.
 
 Quote: "So the restaurant gets a bad rating for something that wasn't their fault. Feels unfair, but that's the system."
 
-Signals: [The rating system is flawed because restaurants get blamed and penalized for late deliveries caused by the platform or traffic.]
+Signals: The rating system is flawed because restaurants get blamed and penalized for late deliveries caused by the platform or traffic.
 
 Quote: ""Now they'd added minimum order values, restricted restaurants, handling fees Gold doesn't cover... my monthly savings dropped from about 500 rupees to 150 "
 
-Signals:[Subscription perks became less valuable because new fees and restrictions were added, cutting down monthly savings drastically.]
+Signals:Subscription perks became less valuable because new fees and restrictions were added, cutting down monthly savings drastically.
 
 Quote: "If the delivery is going to take 60 minutes, tell me 60. Don't promise 30 and give me cold food at 75. Just be honest about the promise "
 
-Signals: [Users prefer honesty about long delivery times over fake, fast estimates that lead to cold food.]
+Signals: Users prefer honesty about long delivery times over fake, fast estimates that lead to cold food.
 
-Interview B — Meera Krishnan (Restaurant owner, Chennai)
+## Interview B — Meera Krishnan (Restaurant owner, Chennai)
 
 Quote: "Saturday-Sunday, we get 3x the walk-ins. My kitchen has one dosa griddle, one idli steamer, one prep station. Weekdays fine, weekends chaos"
 
-Signals: [Physical kitchen capacity limits , Severe strain during weekend spikes because of some operational imbalance in dine in and delivery capacity]
+Signals: Physical kitchen capacity limits , Severe strain during weekend spikes because of some operational imbalance in dine in and delivery capacity
 
 Quote: "Zomato thinks I don't want orders. I WANT orders — I'm running a business. I just cannot FULFILL delivery orders on weekends. My kitchen isn't scaled for both walk-in surge and delivery"
 
-Signals: [The app assume that restaurant doesn't want orders rather than acknowledging a genuine gap in capability ]
+Signals: The app assume that restaurant doesn't want orders rather than acknowledging a genuine gap in capability 
 
 Quote: "The app just gives me one option — mark yourself offline. But then my ratings drop because I've been 'unavailable' too much."
 
-Signals: [The app punishes restaurants for going offline to handle rushes, creating a no-win situation for the owner. ]
+Signals: The app punishes restaurants for going offline to handle rushes, creating a no-win situation for the owner. 
 
 Quote: "Let restaurants set their own capacity per hour. Not just 'open' or 'closed'. Let me tell the app: 'Saturday 1-3 PM, only 5 delivery orders per hour.' Right now it's binary. I need a knob.  "
 
-Signals: [Owner want a flexible control to limit order volume during pearl hours based their capacity to manage business ]
+Signals: Owner want a flexible control to limit order volume during pearl hours based their capacity to manage business 
 
 
-Interview C — Priya Nair (Marketing exec, Mumbai)
+## Interview C — Priya Nair (Marketing exec, Mumbai)
 
 Quote: "Rent 12k, groceries 3k, transport 2k, phone and OTT 1k, family send 2k, savings I aim for 5k. That leaves me 5k for everything else — including any food out or delivery. "
 
-Signals: [Tight monthly budget with strict allocation limits, leaving very little room for discretionary spending like food delivery. ]
+Signals: Tight monthly budget with strict allocation limits, leaving very little room for discretionary spending like food delivery. 
 
 Quote: "I'll be scrolling Zomato, find a nice-looking dal makhani, 200 rupees. Add to cart. Go to checkout. See: Total 257 rupees. Delivery fee 45. GST 12. Suddenly it's not 200. It's basically 260. That's almost 30 percent more than I thought I was paying "
 
-Signals: [Hidden extra cost causing significant jump in the paid amount which is shock for budget conscious users like Priya ]
+Signals: Hidden extra cost causing significant jump in the paid amount which is shock for budget conscious users like Priya 
 
 Quote: "I've already invested time picking food. Then boom — fee revealed. It feels like a trap. Sunk cost is real "
 
-Signals: [User frustration on spending time on selecting food on disclosure of additional amount later on the payment page]
+Signals: User frustration on spending time on selecting food on disclosure of additional amount later on the payment page
 
 Quote: "Why am I paying vada-pav-price for someone to bring my food "
 
-Signals: [User comparison on delivery cost with the actual price of alternative food item]
+Signals: User comparison on delivery cost with the actual price of alternative food item
 
 Quote: "I looked at it... My friend Karthik told me the value has dropped a lot in the past few months. Restrictions, minimums. I don't order enough to make even 300 worth it. "
 
-Signals: [Low-frequency users finding no financial value in subscription plans, especially when perks are restricted by minimum order thresholds.]
+Signals: Low-frequency users finding no financial value in subscription plans, especially when perks are restricted by minimum order thresholds.
 
-Interview D — Karthik Reddy (PM, Bangalore, ex-Gold)
+## Interview D — Karthik Reddy (PM, Bangalore, ex-Gold)
+
 Quote: "In July, they added 'restrictions' ... Then the minimum order value went up from 199 to 249. Then they added a 'handling fee' that Gold didn't cover. Then peak-hour surcharges ... Layer after layer."
 
-Signals: [Hidden surcharges and restrictions on gold subscription which destroy user trust and subscription value is lost]
+Signals: Hidden surcharges and restrictions on gold subscription which destroy user trust and subscription value is lost
 
 Quote: "If they'd said 'Gold is going up to 400 rupees, here's why, here's the new value structure' — I might've paid it if the new value was clear. But hiding changes behind fine print? That's a trust break "
 
-Signals: [Preference for direct, transparent price hikes over unannounced feature that effects brand trust , user feels tricked ]
+Signals: Preference for direct, transparent price hikes over unannounced feature that effects brand trust , user feels tricked 
 
 Quote: "4 out of my 6 Gold-subscribing friends quit in the same window — July, August, September. Q3 was a bloodbath for them, I bet "
-Signals: [A whole friend group dropped the subscription at the same time, showing it was a widespread problem and not just one personalised complaint.]
-Quote: "On the cancellation screen — you know Zomato — they showed me 'You've saved ₹2,100 with Gold this year!' Which is true! But the RATE of savings had collapsed. That's what mattered to me." 
-Signals: [Even though the app highlighted total yearly savings, the user cared more about how much money they were saving on a monthly basis right now.]
-Quote: "My data lock-in with Zomato is real — 6 years of order history — but not infinite" 
-Signals:[ Even years of past usage and saved history aren't enough to keep a customer if service quality keeps getting worse. ]
 
-Interview E — Anjali Patel (Consultant, Delhi, one-time user)
+Signals: A whole friend group dropped the subscription at the same time, showing it was a widespread problem and not just one personalised complaint.
+
+Quote: "On the cancellation screen — you know Zomato — they showed me 'You've saved ₹2,100 with Gold this year!' Which is true! But the RATE of savings had collapsed. That's what mattered to me." 
+
+Signals: Even though the app highlighted total yearly savings, the user cared more about how much money they were saving on a monthly basis right now.
+
+Quote: "My data lock-in with Zomato is real — 6 years of order history — but not infinite" 
+
+Signals:Even years of past usage and saved history aren't enough to keep a customer if service quality keeps getting worse. 
+
+## Interview E — Anjali Patel (Consultant, Delhi, one-time user)
+
 Quote: "Complete disaster. The rider called me 4 times because he couldn't find my building... Finally arrived 65 minutes late... Food was cold. Spring rolls soggy. And the dessert was missing entirely. "
 
-Signals: [The very first order went completely wrong due to delivery getting lost, arriving extremely late, and missing food items.]
+Signals: The very first order went completely wrong due to delivery getting lost, arriving extremely late, and missing food items.
 
 Quote: "Zomato support: 'Sorry for the inconvenience, we've credited 50 rupees to your wallet.' That's it. 50 rupees credit. Not refund — credit. Meaning I had to order AGAIN to use it."
 
-Signals: [Customer support offered a tiny amount of store credit instead of a real refund, forcing the customer to spend more money with them just to use it. ]
+Signals: Customer support offered a tiny amount of store credit instead of a real refund, forcing the customer to spend more money with them just to use it.
 
 Quote: "First delivery experience determines whether I trust an app. Zomato failed the test. "
 
-Signals: [A bad experience on the first try completely ruined any chance of the customer to trust the brand again. ]
+Signals: A bad experience on the first try completely ruined any chance of the customer to trust the brand again. 
 
 Quote: "If I'm a first-time customer, I should probably get the BEST rider, the fastest kitchen, the most reliable route... If Zomato knew I was a first-timer, they should have treated me like gold. Instead they treated me like a rounding error. "
 
-Signals: [New users expect special care or extra attention on their first try to make a good impression, but instead they felt completely ignored ]
+Signals: New users expect special care or extra attention on their first try to make a good impression, but instead they felt completely ignored 
 
 Quote: "Not one email. Not one push notification. Just silence. Which... also tells me something. If I'm gone and they don't care to know why, I'm not going to care about coming back "
 
-Signals: [The company made no effort to check in or win back the customer after they stopped using the app, proving they didn't value them. ]
-Interview F — Vikram Iyer (Tech Lead, Bangalore, 5-year power user)
+Signals: The company made no effort to check in or win back the customer after they stopped using the app, proving they didn't value them.
+
+## Interview F — Vikram Iyer (Tech Lead, Bangalore, 5-year power user)
+
 Quote: "Delivery times in Bangalore Whitefield have crept up. Two years ago, 25-30 minute deliveries were standard for my area. Now it's 40-50 average, and 60+ during evening rush ."
 
-Signals: [Long-term power users notice a steady, frustrating decline in delivery speeds over the years, especially during evening hours. ]
+Signals: Long-term power users notice a steady, frustrating decline in delivery speeds over the years, especially during evening hours.
 
 Quote: "My favorite South Indian place... they're basically offline Sunday afternoons now. Used to be reliable. Now marked 'temporarily closed' every Sunday 12-3"
 
-Signals: [Key restaurants frequently turn off online orders during peak hours, reducing options for customers to order.]
+Signals: Key restaurants frequently turn off online orders during peak hours, reducing options for customers to order.
 
 Quote: "Gold subscription — I cancelled 3 months ago. Same reason as everyone else. Value dropped without warning. "
 
-Signals: [Long-time subscribers drop the loyalty program because its benefits and overall value reduced , no effective savings]
+Signals: Long-time subscribers drop the loyalty program because its benefits and overall value reduced , no effective savings
 
 Quote: "Zomato remembers I don't want mushrooms, I always want extra pickles, my address is memorized. Swiggy doesn't have my 5 years of data. Switching cost is real for me "
 
-Signals: [Years of personal order history and custom preferences create a strong barrier for moving towards a competing app.]
+Signals: Years of personal order history and custom preferences create a strong barrier for moving towards a competing app.
 
 Quote: "If I were new to Zomato today, I'd probably not stay either... If a 5-year power user like me sees the erosion, imagine what new users see with fresh eyes. "
 
-Signals: [Long-term customers believe that poor service and declining quality make it much harder for the platform to stick -new users ]
+Signals: Long-term customers believe that poor service and declining quality make it much harder for the platform to stick -new users
 
 
-Section 2 — Themes
-Group quotes into themes that show up in 3+ interviews (3-User Rule). Aim for 4-6 themes.
-Theme 1: [Peak hour delivery delays]
-Who mentioned it: [e.g. Rohan, Vikram, Anjali — 3/6 interviews]
-Anchor quote: "[Between 7-9 PM in Bangalore, if I order Zomato, I'm gambling. 60-70 minute deliveries are the norm, not the exception]" — [Rohan Verma]
-Why it matters: [ Severe delivery delays during peak hours creates mistrust within user delivery promises  and users are facing issues like cold food , bad quality]
-Theme 2: [Subscription value erosion]
+# Section 2 — Themes
+
+## Theme 1: [Peak hour delivery delays]
+
+Who mentioned it: e.g. Rohan, Vikram, Anjali — 3/6 interviews
+
+Anchor quote: "Between 7-9 PM in Bangalore, if I order Zomato, I'm gambling. 60-70 minute deliveries are the norm, not the exception" — [Rohan Verma]
+
+Why it matters: Severe delivery delays during peak hours creates mistrust within user delivery promises  and users are facing issues like cold food , bad quality
+
+## Theme 2: [Subscription value erosion]
 Who mentioned it: [Rohan, Priya , Kartik , Vikram — 4/6 interviews]
 Anchor quote: "In July, they added 'restrictions' ... Then the minimum order value went up from 199 to 249. Then they added a 'handling fee' that Gold didn't cover. Then peak-hour surcharges ... Layer after layer. " — [Kartik Reddy]
 Why it matters: [Quietly adding restrictions and unannounced fees Impacts the financial value offered on loyalty memberships, turning loyal subscribers into churned users]
