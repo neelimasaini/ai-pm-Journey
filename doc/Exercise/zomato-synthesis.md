@@ -193,27 +193,14 @@ Why it matters: Because delivery apps lack flexible volume controls, restaurants
 
 Cross-reference your QuickBites data findings (from Exercise 2) with the interview quotes. For each data problem, list confirming (or contradicting) interview quotes and rate the triangulation strength: WEAK (1 interview), MODERATE (2 interviews), STRONG (3+ interviews).
 
-#
-Data Problem (from QuickBites)
-Data Signal
-Confirming Interview Quotes
-Strength
-1
-Bangalore Evening Delivery Crisis and Delivery delays 
-61 min avg vs 31 min elsewhere
-
-In Bangalore alone, evening deliveries average over 60 minutes. Furthermore, "Delivery Delay" makes up 33% (15 of 45) of all customer support tickets. 
-"Between 7-9 PM in Bangalore, if I order Zomato, I'm gambling. 60-70 minute deliveries are the norm, not the exception." — Rohan Verma
-
+| # | Data Problem (from QuickBites) | Data Signal | Confirming Interview Quotes | Strength |
+| --- | --- | --- | --- | --- |
+| 1 | Bangalore Evening Delivery Crisis and Delivery delays | 61 min avg vs 31 min elsewhere ,  In Bangalore alone, evening deliveries average over 60 minutes. Furthermore, "Delivery Delay" makes up 33% (15 of 45) of all customer support tickets. | "Between 7-9 PM in Bangalore, if I order Zomato, I'm gambling. 60-70 minute deliveries are the norm, not the exception." — Rohan Verma
 
 "Now it's 40-50 average, and 60+ during the evening rush." — Vikram Iyer
 
-Anjali highlights a disastrous 65-minute wait for her first order. 
-
-
-Strong 
-2
-High Order Cancellation and Refund Rates at Specific Restaurants 
+Anjali highlights a disastrous 65-minute wait for her first order | Strong |
+|2| High Order Cancellation and Refund Rates at Specific Restaurants | 
 Specific restaurants exhibit severe operational failure rates (e.g., Delhi Delites at a 34.2% refund rate, Spice Route at 26.9%). Additionally, "Refund Request" is the single largest support category, making up 44% (20 out of 45) of all tickets. 
 We canceled. As many as we can. Maybe 20-30 percent of weekend orders... My kitchen isn't scaled for both walk-in surge and delivery." — Meera Krishnan 
 Weak 
