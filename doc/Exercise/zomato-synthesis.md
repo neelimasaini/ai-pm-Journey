@@ -191,6 +191,8 @@ Why it matters: Because delivery apps lack flexible volume controls, restaurants
 
 ## Section 3 — Triangulation Map
 
+Cross-reference your QuickBites data findings (from Exercise 2) with the interview quotes. For each data problem, list confirming (or contradicting) interview quotes and rate the triangulation strength: WEAK (1 interview), MODERATE (2 interviews), STRONG (3+ interviews).
+
 #
 Data Problem (from QuickBites)
 Data Signal
