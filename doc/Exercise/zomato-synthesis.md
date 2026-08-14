@@ -246,15 +246,15 @@ When checking out with a strict personal budget, cost-conscious users want to se
 
 ## Section 6 — Chosen Problem + JTBD
 
-****My chosen problem
-**
+### My chosen problem
+
 When ordering food during busy peak hours everyday, user wants their food to be delivered on time , but the app severely underestimate how long the delivery time would be , leaving user with cold , soggy food which ruin their dinner and users are switching to other alternatives " – Evidenced by data showing average 61 minutes delivery delay in bangalore and interviewers Rohan who says waiting for 60-70 minutes is now a normal things.
 
 ### Why this one?
 
 This is a bleeding wound of business and directly caters to the core business . Quickbytes is a food ordering platform and customers expect quality food delivered as promised . This impacts our North Star metric (retention and lifetime value) . If the foundational promise of a delivery app—getting hot food to people when they expect it—is broken, users will churn to competitors regardless of how good our app features or loyalty programs are. 
 
-### JTBD Statement
+## JTBD Statement
 
 When I order dinner during peak hours, I want to see an accurate delivery estimate upfront, so I can plan my evening without staring at the door.
 
