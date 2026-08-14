@@ -180,7 +180,7 @@ Anchor quote: " I'll be scrolling Zomato, find a nice-looking dal makhani, 200 r
 
 Why it matters: Revealing extra delivery charges , surcharges, taxes , handling fees only at checkout page creates sudden shock for the user 
 
-## Suspicion : Theme 5 [Kitchen capacity overload and lack of owner flex-controls ] 
+## Suspicion : [Kitchen capacity overload and lack of owner flex-controls ] 
 
 Who mentioned it: Meera, Vikram — 2/6 interviews , Vikram noting his favorite restaurants are marked "temporarily closed" every Sunday due to capacity 
 
