@@ -7,18 +7,9 @@ GitHub file URL:
 
 ---------------------------------------------------------------
 
-How to use this template
-Fill in each of the 6 sections below. Follow the instructions in the assignment brief for what goes into each section. Delete these instruction blocks (marked with >) as you go.
-
-Total time estimate: 2.5 – 3 hours.
-
----------------------------------------------------------------
-
 ## Section 1 — Quote Extraction
 
-Extract 3-5 VERBATIM quotes from each interview. Verbatim = word-for-word, not summarized. For each quote, add one line explaining what it signals.
-
-Interview A — Rohan Verma (SDE, Bangalore, WFH)
+**Interview A — Rohan Verma (SDE, Bangalore, WFH)**
 
 Quote: "Delivery times. Zomato has become... unreliable. "Between 7-9 PM in Bangalore, if I order Zomato, I'm gambling. 60-70 minute deliveries are the norm, not the exception "
 
