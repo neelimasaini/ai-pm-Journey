@@ -239,31 +239,36 @@ When checking out with a strict personal budget, cost-conscious users want to se
 
 | # | Problem Statement (shortened) | Impact (1-5) | Feasibility (1-5) | Quadrant |
 | --- | --- | --- | --- | --- |
-| 1 | Delivery delay | [5] | [4] | [Solve now] |
-| 2 | Subscription value drop | [4] | [3] | [Strategic] | 
-| 3 | Kitchen Capacity | [5] | [3] | [Strategic] | 
-| 4 | Hidden checkout fees | [3] | 5 | Quick Win | 
+| 1 | Delivery delay | 5 | 4 | Solve now |
+| 2 | Subscription value drop | 4 | 3 | Strategic | 
+| 3 | Kitchen Capacity | 5 | 3 | Strategic | 
+| 4 | Hidden checkout fees | 3 | 5 | Quick Win | 
 
 ## Section 6 — Chosen Problem + JTBD
 
 **My chosen problem
 **When ordering food during busy peak hours everyday, user wants their food to be delivered on time , but the app severely underestimate how long the delivery time would be , leaving user with cold , soggy food which ruin their dinner and users are switching to other alternatives " – Evidenced by data showing average 61 minutes delivery delay in bangalore and interviewers Rohan who says waiting for 60-70 minutes is now a normal things.
-Why this one?
-[2-3 sentences on why this problem earned your pick over the others. Reference: severity, evidence strength, feasibility, strategic fit.]
+
+### Why this one?
 
 This is a bleeding wound of business and directly caters to the core business . Quickbytes is a food ordering platform and customers expect quality food delivered as promised . This impacts our North Star metric (retention and lifetime value) . If the foundational promise of a delivery app—getting hot food to people when they expect it—is broken, users will churn to competitors regardless of how good our app features or loyalty programs are. 
 
+### JTBD Statement
 
-
-JTBD Statement
 When I order dinner during peak hours, I want to see an accurate delivery estimate upfront, so I can plan my evening without staring at the door.
+
 When I order food on a busy evening, I want the delivery to be routed efficiently on time, so I can eat a hot and fresh meal instead of a cold, soggy one.
+
 When I rely on an app for dinner after a long workday, I want them to honor their promised delivery time, so I can trust them as my primary food app without needing a backup.
+
 When I am hungry during the 7-9 PM rush, I want to know exactly when the food will arrive, so I can manage my hunger and avoid the frustration of waiting in the dark 
+
 When I am busy working and unable to cook , I want my food order to deliver on time so i can manage my work accordingly 
+
 When I am working late from home, I want my food to arrive hot and on time, so I can maintain my focus and keep my evening routine on track.  
 
-User Story Version
+## User Story Version
+
 Structure: "As a [persona], I want to [action], so that [benefit]."
 
 As a busy professional juggling tasks at home, I want my food order to be delivered right on time, so that I can manage my work schedule without constantly watching the clock.
@@ -272,32 +277,6 @@ As a tired professional who can't cook, I want my evening food order to arrive w
 
 As a hungry user ordering during peak hours, I want the app to provide an accurate delivery estimate upfront, so that I can plan my work and personal time effectively without being let down by delays.  
 
-
-
-Self-Check Before Submitting
-Before you commit to GitHub, verify:
-
-All 6 sections have real content (not placeholder text)
-Every quote in Section 1 is VERBATIM (word-for-word from the interview)
-Every theme in Section 2 has 3+ users mentioning it
-Section 3 Triangulation Map addresses ALL 3-5 of your data problems
-Problem statements in Section 4 have all 5 parts (context/segment/outcome/gap/evidence)
-Problem statements cite BOTH data AND interviews
-Section 5 has scores for every problem, all assigned to quadrants
-Section 6 has JTBD in "When [situation]..." structure (NOT "As a [persona]...")
-Reasoning in Section 6 is specific and defensible
-
-If all boxes checked → you're ready to submit.
-
-
-
-Submission checklist:
-
-Save this file as zomato-synthesis.md
-Place in your GitHub repo at /docs/exercises/zomato-synthesis.md
-Commit with message: "Wk 1 exercise: Zomato interview synthesis complete"
-Push to your public repo
-Paste the GitHub URL in Loop Chat in Dashboard & in Whats app group named Batch August
 
 
 
