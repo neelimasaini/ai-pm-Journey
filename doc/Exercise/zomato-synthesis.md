@@ -246,8 +246,9 @@ When checking out with a strict personal budget, cost-conscious users want to se
 
 ## Section 6 — Chosen Problem + JTBD
 
-**My chosen problem
-**When ordering food during busy peak hours everyday, user wants their food to be delivered on time , but the app severely underestimate how long the delivery time would be , leaving user with cold , soggy food which ruin their dinner and users are switching to other alternatives " – Evidenced by data showing average 61 minutes delivery delay in bangalore and interviewers Rohan who says waiting for 60-70 minutes is now a normal things.
+****My chosen problem
+**
+When ordering food during busy peak hours everyday, user wants their food to be delivered on time , but the app severely underestimate how long the delivery time would be , leaving user with cold , soggy food which ruin their dinner and users are switching to other alternatives " – Evidenced by data showing average 61 minutes delivery delay in bangalore and interviewers Rohan who says waiting for 60-70 minutes is now a normal things.
 
 ### Why this one?
 
