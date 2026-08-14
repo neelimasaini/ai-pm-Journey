@@ -204,68 +204,50 @@ Cross-reference your QuickBites data findings (from Exercise 2) with the intervi
 ## What interviews revealed that data COULDN'T
 
 Insight 1: "Meera revealed that South Indian weekend cancellations are a SUPPLY-side capacity issue, not a demand issue — she wants a per-hour capacity knob."
+
 The data shows that certain restaurants have alarming cancellation and refund rates (e.g., ~34%), which looks like bad management on a dashboard. However, Meera (Interview B) revealed the "why": restaurants physically cannot handle weekend walk-in surges alongside unlimited online orders. Because the platform only offers a binary "open/closed" switch, owners are forced to manually cancel delivery orders just to survive the rush.
 
 Insight 2: Poor food quality" is actually a symptom of the delivery delay. 
+
 Customer support data logs numerous complaints and refund requests categorized under "Food Quality" (e.g., cold or soggy food). The data suggests restaurants are cooking bad food. However, Rohan (Interview A) and Anjali (Interview E) revealed the actual root cause: the food is only cold and soggy because it sat in transit for over an hour due to severe peak-time delivery delays. The restaurants are taking the blame and bad ratings for a logistical failure. 
 
 Insight 3: Resolved" support tickets are actually driving permanent churn. 
+
 The support ticket data shows that issues are frequently marked as "resolved" by issuing small wallet credits (e.g., ₹50). On paper, this looks like a successfully handled complaint. However, Anjali (Interview E) and Rohan (Interview A) revealed that offering a tiny credit instead of a full refund for a completely ruined, 75-minute-late meal feels disrespectful. Instead of saving the customer relationship, this specific "resolution" policy breaks brand trust and guarantees the user will churn. 
 
 ## Section 4 — Problem Statements
 
-Problem Statement 1 - Delivery Delays 
+### Problem Statement 1 - Delivery Delays 
+
 "When ordering dinner between 7-9 PM in Bangalore, urban working professionals (25–35) want their food delivered on time, but the app severely underestimates the delay, delivering cold and soggy food in 60 minutes against a 42-minute promise — evidenced by QuickBites data showing evening deliveries averaging 61 minutes in Bangalore (with 33% of support tickets for delivery delays) and 2/6 interviews (Rohan, Vikram) explicitly citing evening delivery delays as a major pain point where 60–70 minute waits have become a frustrating norm." 
-Problem Statement 2 - Subscription Value Drop 
+
+### Problem Statement 2 - Subscription Value Drop 
+
 "When subscribing to a premium loyalty membership, frequent urban users want to consistently save money on their orders, but the platform quietly introduces new restrictions, minimum order jumps (from ₹199 to ₹249), and peak-hour surcharges that wipe out their financial returns — evidenced by churn data showing a massive Q3 drop-off AND 3/6 interviews (Karthik, Rohan, Vikram) explicitly stating they canceled their Gold memberships because their monthly savings crashed far below the subscription cost (e.g., dropping from ₹500 to ₹150)." 
-Problem Statement 3 - Kitchen Capacity 
+
+### Problem Statement 3 - Kitchen Capacity 
+
 "When handling weekend peak rushes, restaurant partners want to fulfill online orders without destroying their in-house service, but the platform's rigid binary switch forces them to manually cancel deliveries just to survive the surge — evidenced by QuickBites data showing severe restaurant refund rates reaching up to 34.2% (with 'Refund Requests' making up 44% of all support tickets) and interview evidence from Meera  who is forced to manually reject 20-30% of her weekend delivery volume because she lacks an hourly volume control.
-Problem Statement 4 - Hidden Checkout Fees 
+
+### Problem Statement 4 - Hidden Checkout Fees 
+
 When checking out with a strict personal budget, cost-conscious users want to see the exact total price of their meal upfront, but the app masks delivery fees, handling charges, and GST until the final payment screen, creating sudden shock — evidenced by app funnel data showing a persistent 25–30% drop-off between cart addition and final payment and interview evidence from Priya (budget-conscious persona) detailing how a surprise ~30% price jump on a ₹200 meal makes her feel trapped and abandon the platform.
 
 
-Section 5 — 4-Quadrant Map
-
-#
-Problem Statement (shortened)
-Impact (1-5)
-Feasibility (1-5)
-Quadrant
-1
-Delivery delay 
-[5]
-[4]
-[Solve now]
-2
-Subscription value drop
-[4]
-[3]
-[Strategic]
-3
-Kitchen Capacity 
-[5]
-[3]
-[Strategic]
-4
-Hidden checkout fees 
-[3]
-[5]
-[Quick Win]
+## Section 5 — 4-Quadrant Map
 
 
+| # | Problem Statement (shortened) | Impact (1-5) | Feasibility (1-5) | Quadrant |
+| --- | --- | --- | --- | --- |
+| 1 | Delivery delay | [5] | [4] | [Solve now] |
+| 2 | Subscription value drop | [4] | [3] | [Strategic] | 
+| 3 | Kitchen Capacity | [5] | [3] | [Strategic] | 
+| 4 | Hidden checkout fees | [3] | 5 | Quick Win | 
 
+## Section 6 — Chosen Problem + JTBD
 
-
-
-
-
-
-
-
-
-Section 6 — Chosen Problem + JTBD
-My chosen problem
-When ordering food during busy peak hours everyday, user wants their food to be delivered on time , but the app severely underestimate how long the delivery time would be , leaving user with cold , soggy food which ruin their dinner and users are switching to other alternatives " – Evidenced by data showing average 61 minutes delivery delay in bangalore and interviewers Rohan who says waiting for 60-70 minutes is now a normal things.
+**My chosen problem
+**When ordering food during busy peak hours everyday, user wants their food to be delivered on time , but the app severely underestimate how long the delivery time would be , leaving user with cold , soggy food which ruin their dinner and users are switching to other alternatives " – Evidenced by data showing average 61 minutes delivery delay in bangalore and interviewers Rohan who says waiting for 60-70 minutes is now a normal things.
 Why this one?
 [2-3 sentences on why this problem earned your pick over the others. Reference: severity, evidence strength, feasibility, strategic fit.]
 
