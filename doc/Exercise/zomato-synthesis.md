@@ -1,4 +1,4 @@
-#Zomato Interview Synthesis — Wk 1 Extended Exercise
+# Zomato Interview Synthesis — Wk 1 Extended Exercise
 
 Student Name: Neelima Saini 
 Batch: Aug-2026
@@ -14,7 +14,7 @@ Total time estimate: 2.5 – 3 hours.
 
 ---------------------------------------------------------------
 
-##Section 1 — Quote Extraction
+## Section 1 — Quote Extraction
 
 Extract 3-5 VERBATIM quotes from each interview. Verbatim = word-for-word, not summarized. For each quote, add one line explaining what it signals.
 
