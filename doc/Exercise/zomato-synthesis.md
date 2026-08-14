@@ -164,7 +164,7 @@ Anchor quote: "In July, they added 'restrictions' ... Then the minimum order val
 
 Why it matters: Quietly adding restrictions and unannounced fees Impacts the financial value offered on loyalty memberships, turning loyal subscribers into churned users
 
-## Theme 3:[Subscription Cancellation because of declining Monthly Savings ]
+## Theme 3: [Subscription Cancellation because of declining Monthly Savings ]
 
 Who mentioned it: Rohan, Karthik, Priya —  3/6 interviews 
 
