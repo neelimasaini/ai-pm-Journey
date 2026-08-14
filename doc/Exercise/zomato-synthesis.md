@@ -197,40 +197,23 @@ Cross-reference your QuickBites data findings (from Exercise 2) with the intervi
 | --- | --- | --- | --- | --- |
 | 1 | Bangalore Evening Delivery Crisis and Delivery delays | 61 min avg vs 31 min elsewhere <br>  In Bangalore alone, evening deliveries average over 60 minutes. Furthermore, "Delivery Delay" makes up 33% (15 of 45) of all customer support tickets. | "Between 7-9 PM in Bangalore, if I order Zomato, I'm gambling. 60-70 minute deliveries are the norm, not the exception." — Rohan Verma. <br><br> "Now it's 40-50 average, and 60+ during the evening rush." — Vikram Iyer . <br><br> Anjali highlights a disastrous 65-minute wait for her first order | Strong |
 | 2 | High Order Cancellation and Refund Rates at Specific Restaurants | Specific restaurants exhibit severe operational failure rates (e.g., Delhi Delites at a 34.2% refund rate, Spice Route at 26.9%). <br><br> Additionally, "Refund Request" is the single largest support category, making up 44% (20 out of 45) of all tickets. | We canceled. As many as we can. Maybe 20-30 percent of weekend orders... My kitchen isn't scaled for both walk-in surge and delivery."  — Meera Krishnan | Weak |
-| 3 | Customer Churn Despite Resolved Support Tickets | The customer database reveals an 18% churn rate (9 out of 50 users marked as "Churned"). Meanwhile, support resolutions routinely close tickets with actions like "Refund processed" or "Delivery fee waived," which may artificially look like successful problem resolution. 
-"50 rupees credit. Not refund — credit. Meaning I had to order AGAIN to use it... Uninstalled the next day." — Anjali Patel
+| 3 | Customer Churn Despite Resolved Support Tickets | The customer database reveals an 18% churn rate (9 out of 50 users marked as "Churned").<br>  Meanwhile, support resolutions routinely close tickets with actions like "Refund processed" or "Delivery fee waived," which may artificially look like successful problem resolution. | "50 rupees credit. Not refund — credit. Meaning I had to order AGAIN to use it... Uninstalled the next day." — Anjali Patel <br><br> "First 1-2 times, I raised tickets. Got 50 rupees credit. Whatever. Now I just accept it. Or cancel and switch..." — Rohan Verma |Moderate |
+|4 | UPI Issues | The data shows 45 failed UPI transactions. Additionally, 10 out of 45 support tickets are categorized as "Payment Issue," with complaints explicitly citing "UPI payment failed but money got deducted" and "UPI issues are a daily thing". | There are zero mentions of UPI or payment gateway failures across all six user interviews. | Weak |
+| 5 | Drop in Food Quality | Multiple support tickets request refunds because the "Food was completely cold when it arrived" or "Food quality has really dropped". Especially evenings. Like yesterday — I ordered biryani at 8:30 PM. App promised 30 minutes. It arrived at 9:45 PM. Cold. - Rohan Verma <br><br> Finally arrived 65 minutes late — the app had promised 35, it took over an hour. Food was cold. Spring rolls soggy. - Anjali Patel | Moderate to Strong |
 
-"First 1-2 times, I raised tickets. Got 50 rupees credit. Whatever. Now I just accept it. Or cancel and switch..." — Rohan Verma
+## What interviews revealed that data COULDN'T
 
+Insight 1: "Meera revealed that South Indian weekend cancellations are a SUPPLY-side capacity issue, not a demand issue — she wants a per-hour capacity knob."
+The data shows that certain restaurants have alarming cancellation and refund rates (e.g., ~34%), which looks like bad management on a dashboard. However, Meera (Interview B) revealed the "why": restaurants physically cannot handle weekend walk-in surges alongside unlimited online orders. Because the platform only offers a binary "open/closed" switch, owners are forced to manually cancel delivery orders just to survive the rush.
 
-Moderate
-4
-UPI Issues 
-The data shows 45 failed UPI transactions. Additionally, 10 out of 45 support tickets are categorized as "Payment Issue," with complaints explicitly citing "UPI payment failed but money got deducted" and "UPI issues are a daily thing". 
-There are zero mentions of UPI or payment gateway failures across all six user interviews. 
-Weak 
-5
-Drop in Food Quality 
-Multiple support tickets request refunds because the "Food was completely cold when it arrived" or "Food quality has really dropped". 
-Especially evenings. Like yesterday — I ordered biryani at 8:30 PM. App promised 30 minutes. It arrived at 9:45 PM. Cold. - Rohan Verma 
-
-Finally arrived 65 minutes late — the app had promised 35, it took over an hour. Food was cold. Spring rolls soggy. - Anjali Patel 
-Moderate to Strong 
-
-What interviews revealed that data COULDN'T
-
-Insight 1: ["Meera revealed that South Indian weekend cancellations are a SUPPLY-side capacity issue, not a demand issue — she wants a per-hour capacity knob."]
-  The data shows that certain restaurants have alarming cancellation and refund rates (e.g., ~34%), which looks like bad management on a dashboard. However, Meera (Interview B) revealed the "why": restaurants physically cannot handle weekend walk-in surges alongside unlimited online orders. Because the platform only offers a binary "open/closed" switch, owners are forced to manually cancel delivery orders just to survive the rush.
-
-Insight 2: [Poor food quality" is actually a symptom of the delivery delay. 
- Customer support data logs numerous complaints and refund requests categorized under "Food Quality" (e.g., cold or soggy food). The data suggests restaurants are cooking bad food. However, Rohan (Interview A) and Anjali (Interview E) revealed the actual root cause: the food is only cold and soggy because it sat in transit for over an hour due to severe peak-time delivery delays. The restaurants are taking the blame and bad ratings for a logistical failure. ]
+Insight 2: Poor food quality" is actually a symptom of the delivery delay. 
+Customer support data logs numerous complaints and refund requests categorized under "Food Quality" (e.g., cold or soggy food). The data suggests restaurants are cooking bad food. However, Rohan (Interview A) and Anjali (Interview E) revealed the actual root cause: the food is only cold and soggy because it sat in transit for over an hour due to severe peak-time delivery delays. The restaurants are taking the blame and bad ratings for a logistical failure. 
 
 Insight 3: Resolved" support tickets are actually driving permanent churn. 
-
 The support ticket data shows that issues are frequently marked as "resolved" by issuing small wallet credits (e.g., ₹50). On paper, this looks like a successfully handled complaint. However, Anjali (Interview E) and Rohan (Interview A) revealed that offering a tiny credit instead of a full refund for a completely ruined, 75-minute-late meal feels disrespectful. Instead of saving the customer relationship, this specific "resolution" policy breaks brand trust and guarantees the user will churn. 
 
+## Section 4 — Problem Statements
 
-Section 4 — Problem Statements
 Problem Statement 1 - Delivery Delays 
 "When ordering dinner between 7-9 PM in Bangalore, urban working professionals (25–35) want their food delivered on time, but the app severely underestimates the delay, delivering cold and soggy food in 60 minutes against a 42-minute promise — evidenced by QuickBites data showing evening deliveries averaging 61 minutes in Bangalore (with 33% of support tickets for delivery delays) and 2/6 interviews (Rohan, Vikram) explicitly citing evening delivery delays as a major pain point where 60–70 minute waits have become a frustrating norm." 
 Problem Statement 2 - Subscription Value Drop 
